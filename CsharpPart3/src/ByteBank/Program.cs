@@ -1,6 +1,6 @@
 ﻿using ByteBank.Funcionarios;
 
-Funcionario carlos = new Funcionario(1);
+Funcionario carlos = new Funcionario();
 
 carlos.Nome = "Carlos";
 carlos.CPF = "546.456.456-20";
